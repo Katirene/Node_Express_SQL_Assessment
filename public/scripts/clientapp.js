@@ -1,6 +1,6 @@
 $(document).ready(function() {
     $('#post-animal').on('click', postAnimal);
-    //getAnimalData();
+    getAnimalData();
 
 });
 
